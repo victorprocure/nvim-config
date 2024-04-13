@@ -31,7 +31,7 @@ return {
 				"emmet_ls",
 				"prismals",
 				"pyright",
-				"csharp_ls",
+				"omnisharp",
 				"clangd",
 				"bashls",
 				"dockerls",
